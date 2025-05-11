@@ -1,0 +1,19 @@
+{
+  "name": "DiveCoin Token List",
+  "timestamp": "2025-05-11T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x259ed6f46e5922e6c58561acb602b7adb69c2d4a",
+      "name": "DiveCoin",
+      "symbol": "DIVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fredlegrand6/dive-token-list/main/blockchains/ethereum/assets/0x259ed6f46e5922e6c58561acb602b7adb69c2d4a/logo.png"
+    }
+  ]
+}
